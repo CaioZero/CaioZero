@@ -6,12 +6,13 @@
 - 📫 How to reach me: caioaugusto.zero@gmail.com
 - ⚡ Fun fact: I really enjoy play Dota 🎮 and Musical Instruments 🎸 
 
- <div>
+ <div align="center">
   <a href="https://github.com/CaioZero">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CaioZero&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioZero&layout=compact&langs_count=7&theme=dracula"/>
-  <img align="center height="150em" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"/>
+  <img  height="150" width="250" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"/>
 </div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" title="Springboot" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
@@ -35,6 +36,6 @@
   <a title="caioaugusto.zero@gmail.com" href ="mailto:caioaugusto.zero@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a title="Caio Augusto LinkedIn" href="https://www.linkedin.com/in/caioaugustozero/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+   <a href="https://github.com/CaioZero">![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
    
 </div>
