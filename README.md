@@ -13,8 +13,7 @@
   <img  height="150" width="250" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"/>
 </div>
 
-
-<div style="display: inline_block"><br>
+<div align="center">
   <img align="center" title="Springboot" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
   <img align="center" title="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" title="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -32,7 +31,7 @@
   <img align="center" title="Zero" height="60" width="60"src="https://c.tenor.com/0ckvep-uNysAAAAC/megaman-zero.gif">
 </div>
   
-  <div> 
+ <div align="center">
   <a title="caioaugusto.zero@gmail.com" href ="mailto:caioaugusto.zero@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a title="Caio Augusto LinkedIn" href="https://www.linkedin.com/in/caioaugustozero/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
