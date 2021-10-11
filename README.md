@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Fullstack Development (Angular + Springboot)
-- 🌱 I’m currently studying: ReactJs
+- 🌱 I’m currently studying: NestJs
 - 📫 How to reach me: caioaugusto.zero@gmail.com
 - ⚡ Fun fact: I really enjoy play Dota 🎮 and Musical Instruments 🎸 
 
