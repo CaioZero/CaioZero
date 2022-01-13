@@ -1,8 +1,7 @@
 ### Hi there 👋 I'm Caio Cruz,
 
 
-- 🔭 I’m currently working on Fullstack Development (Angular + Springboot)
-- 🌱 I’m currently studying: NestJs
+- 🔭 I’m currently working as Fullstack Developer
 - 📫 How to reach me: caioaugusto.zero@gmail.com
 - ⚡ Fun fact: I really enjoy play Dota 🎮 and Musical Instruments 🎸 
 
