@@ -2,7 +2,6 @@
 
 
 - 🔭 I’m currently working as Fullstack Developer
-- 📫 How to reach me: caioaugusto.zero@gmail.com
 - ⚡ Fun fact: I really enjoy play Dota 🎮 and Musical Instruments 🎸 
 
  <div align="center">
@@ -23,8 +22,6 @@
   <img align="center" title="MySql" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" title="Protractor" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/protractor/protractor-plain-wordmark.svg">
   <img align="center" title="Node" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-   <img align="center" title="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-  <img align="center" title="Jenkins" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
   <img align="center" title="Zero" height="60" width="60"src="https://c.tenor.com/0ckvep-uNysAAAAC/megaman-zero.gif">
 </div>
   
