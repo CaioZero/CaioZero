@@ -26,7 +26,7 @@
 </div>
   
  <div align="center">
-  <a title="caioaugusto.zero@gmail.com" href ="mailto:caioaugusto.zero@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a title="caioaugusto.zero@gmail.com" href ="mailto:caiocruz2246@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a title="Caio Augusto LinkedIn" href="https://www.linkedin.com/in/caioaugustozero/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 
